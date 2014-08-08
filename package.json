@@ -1,0 +1,16 @@
+{
+    "name": "CanvasServer",
+    "version": "0.0.1",
+    "dependencies": {
+        "canvas": "*",
+        "ws": "*",
+        "q": "*",
+        "underscore": "*",
+        "mocha": "*"
+    },
+    "main": "main.js",
+    "private": true,
+    "engines": {
+        "node": ">=0.10"
+    }
+}
